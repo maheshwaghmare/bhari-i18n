@@ -1,0 +1,327 @@
+# Translation of Themes - Twenty Twelve in Hindi
+# This file is distributed under the same license as the Themes - Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-08 14:28:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hi_IN\n"
+"Project-Id-Version: Themes - Twenty Twelve\n"
+
+#. Description of the plugin/theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Twelve"
+msgstr "ट्वेंटी ट्वेल्व"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "पूर्ण चौड़ाई पृष्ठ टेम्पलेट, साइडबार नहीं "
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "मुखपृष्ठ टेम्पलेट"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "टैग पुरालेख: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन आपके खोज शब्दों का कुछ भी मिलान नहीं हुआ.कुछ अलग खोजशब्दों के साथ पुन: प्रयास करें."
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s :के लिए खोज परिणाम"
+
+#: index.php:42
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट प्रकाशित करने के लिए तैयार हैं? <a href=\"%s\">यहाँ से शुरुआत करे</a>."
+
+#: index.php:38
+msgid "No posts to display"
+msgstr "प्रदर्शित करने के लिए कोई पोस्ट नहीं"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "अगला &rarr;"
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; पिछला"
+
+#: image.php:26
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr ""
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "सामग्री पर जाएं"
+
+#: header.php:43
+msgid "Menu"
+msgstr "मेनू"
+
+#: functions.php:419
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "यह प्रविष्टि  %3$s को <span class=\"by-author\">%4$s द्वारा </span> पोस्ट किया गया."
+
+#: functions.php:417
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "यह प्रविष्टि %1$s में  %3$s को <span class=\"by-author\"> %4$s द्धारा </span> पोस्ट किया गया."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:415
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "यह प्रविष्टि %1$s  में %3$s को <span class=\"by-author\"> %4$s द्धारा </span> पोस्ट और %2$s में टैग किया गया."
+
+#: functions.php:409
+msgid "View all posts by %s"
+msgstr "%s के सभी पोस्ट देखें"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:395 functions.php:398
+msgid ", "
+msgstr ", "
+
+#: functions.php:374
+msgid "Reply"
+msgstr "प्रतिक्रिया"
+
+#: functions.php:365
+msgid "Your comment is awaiting moderation."
+msgstr "आपकी टिप्पणी सुधार की प्रतीक्षा में है."
+
+#. translators: 1: date, 2: time
+#: functions.php:359
+msgid "%1$s at %2$s"
+msgstr "%1$s को %2$s"
+
+#: functions.php:353
+msgid "Post author"
+msgstr "पोस्ट लेखक"
+
+#: functions.php:338
+msgid "(Edit)"
+msgstr "(संपादित करें)"
+
+#: functions.php:338
+msgid "Pingback:"
+msgstr "पिंगबैक:"
+
+#: functions.php:313
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "नये पोस्ट <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:312
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> पुराने पोस्टस"
+
+#: functions.php:311 single.php:20
+msgid "Post navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: functions.php:289
+msgid "Second Front Page Widget Area"
+msgstr "दूसरा मुखपृष्ठ विजेट क्षेत्र"
+
+#: functions.php:281 functions.php:291
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "प्रतीत होता है जब एक पृष्ठ के रूप में स्थिर फ्रंट पेज सेट के साथ वैकल्पिक फ्रंट पेज टेम्पलेट का उपयोग होता है"
+
+#: functions.php:279
+msgid "First Front Page Widget Area"
+msgstr "प्रथम मुखपृष्ठ विजेट क्षेत्र"
+
+#: functions.php:271
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "वैकल्पिक फ्रंट पेज टेम्पलेट के सिवाय पोस्ट और पृष्ठों पर दिखाई देता है जिसके अपने ही विगेट्स है"
+
+#: functions.php:269
+msgid "Main Sidebar"
+msgstr "मुख्य साइडबार"
+
+#: functions.php:240
+msgid "Page %s"
+msgstr "पृष्ठ  %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:110
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:104
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ऑन"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "प्राथमिक मेनू"
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "गर्व से %s द्वारा संचालित"
+
+#: footer.php:16
+msgid "Semantic Personal Publishing Platform"
+msgstr "शब्दार्थ निजी प्रकाशन मंच"
+
+#: content.php:66
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr " %s के द्वारा सभी पोस्ट देखे<span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "विशेष रुप से प्रदर्शित पोस्ट"
+
+#: content-page.php:21 content.php:45 image.php:102
+msgid "Pages:"
+msgstr "पृष्ठ:"
+
+#: content-none.php:17 index.php:53
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "माफी कीजिये, लेकिन कोई परिणाम नहीं मिला. शायद खोज एक संबंधित पोस्ट खोजने में मदद कर सकता है."
+
+#: content-none.php:13 index.php:49 search.php:34
+msgid "Nothing Found"
+msgstr "कुछ भी नहीं मिला"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "कड़ी"
+
+#: content-aside.php:26 content-image.php:26 content-link.php:24
+#: content-page.php:24 content-quote.php:23 content-status.php:40
+#: content.php:51 functions.php:370 image.php:37
+msgid "Edit"
+msgstr "सम्पादन"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "% Replies"
+msgstr "% जवाबे"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "1 Reply"
+msgstr "1 जवाब"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "Leave a reply"
+msgstr "एक उत्तर दें"
+
+#: content-aside.php:20 content-link.php:18 content-quote.php:17
+#: content-status.php:15
+msgid "Permalink to %s"
+msgstr " %s से पर्मालिंक"
+
+#: content-aside.php:15 content-image.php:13 content-link.php:14
+#: content-quote.php:13 content-status.php:31 content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "पढ़ना जारी रखें <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "टिप्पणिया बंद कर दी गयी है."
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "नई टिप्पणिया &rarr;"
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; पुरानी टिप्पणिया"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "टिप्पणी नेविगेशन"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; पर एक विचार"
+msgstr[1] " &ldquo;%2$s&rdquo; पर %1$s विचार"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "श्रॆणी पुरालेख: %s"
+
+#: author.php:63 content.php:62
+msgid "About %s"
+msgstr "के बारे में %s"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "लेखक पुरालेख: %s"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "पुरालेख"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "वार्षिक पुरालेख: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "मासिक पुरालेख: %s"
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "दैनिक पुरालेख: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ऐसा लगता है हमें वह नहीं मिला जो आप ढूंढ़ रहे है.शायद खोजने से मदद हो सकता हैं."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "यह बात कुछ हद तक शर्मनाक है, है न?"
+
+#. #-#-#-#-#  twentytwelve.pot (Twenty Twelve 2.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:16
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "वर्डप्रेस समूह"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentytwelve/"
+msgstr "https://wordpress.org/themes/twentytwelve/"

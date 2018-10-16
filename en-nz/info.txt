@@ -1,0 +1,17 @@
+
+# Team Page:
+https://translate.wordpress.org/locale/en-nz/default/wp-themes
+
+# BHARI - PO / MO file format
+https://translate.wordpress.org/projects/wp-themes/bhari/en-nz/default/export-translations?format=po
+
+# THEMES Reference files:
+https://translate.wordpress.org/projects/wp-themes/twentyseventeen/en-nz/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentysixteen/en-nz/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyfifteen/en-nz/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyfourteen/en-nz/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentythirteen/en-nz/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentytwelve/en-nz/default/export-translations?format=po
+
+# WordPress 4.1.x:
+https://translate.wordpress.org/projects/wp/4.1.x/admin/en-nz/default/export-translations?format=po

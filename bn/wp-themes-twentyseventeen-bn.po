@@ -1,0 +1,328 @@
+# Translation of Themes - Twenty Seventeen in Bengali
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-17 15:18:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bn\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the plugin/theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Seventeen"
+msgstr "টুয়েন্টি সেভেন্টিন"
+
+#: template-parts/header/site-branding.php:31
+#: template-parts/navigation/navigation-top.php:20
+msgid "Scroll down to content"
+msgstr "নিচে স্ক্রল করুন"
+
+#: functions.php:159
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "কফি"
+
+#: functions.php:155
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "স্যান্ডউইচ"
+
+#: functions.php:151
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "এসপ্রেসো"
+
+#: inc/custom-header.php:117
+msgid "Pause background video"
+msgstr "ব্যাকগ্রাউন্ড ভিডিও পজ করুন"
+
+#: inc/custom-header.php:116
+msgid "Play background video"
+msgstr "ব্যাকগ্রাউন্ড ভিডিও চালান"
+
+#: inc/template-tags.php:154
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "When the two column layout is assigned, the page title is in one column and content is in the other."
+msgstr ""
+
+#: single.php:32
+msgid "Next Post"
+msgstr "পরবর্তী পোস্ট"
+
+#: index.php:27
+msgid "Posts"
+msgstr "পোস্ট"
+
+#: inc/template-tags.php:88
+msgid "Tags"
+msgstr "ট্যাগ"
+
+#: inc/template-tags.php:84
+msgid "Categories"
+msgstr "বিভাগ"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ","
+
+#. translators: %s: post date
+#: inc/template-tags.php:51
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#. translators: %s: post author
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "%s দ্বারা"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr ""
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:107
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: inc/customizer.php:83 inc/customizer.php:130
+msgid "Two Column"
+msgstr "দুই কলাম"
+
+#: inc/customizer.php:82 inc/customizer.php:129
+msgid "One Column"
+msgstr "এক কলাম"
+
+#: inc/customizer.php:77
+msgid "Page Layout"
+msgstr "পেজ লে-আউট"
+
+#: inc/customizer.php:66
+msgid "Theme Options"
+msgstr "থিম অপশন"
+
+#: inc/customizer.php:50
+msgid "Custom"
+msgstr "কাস্টম"
+
+#: inc/customizer.php:48
+msgid "Light"
+msgstr "হালকা"
+
+#: inc/customizer.php:46
+msgid "Color Scheme"
+msgstr "কালার স্কিম"
+
+#: inc/custom-header.php:49
+msgid "Default Header Image"
+msgstr ""
+
+#: functions.php:335
+msgid "Footer 2"
+msgstr "ফুটার ২"
+
+#: functions.php:327 functions.php:337
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:325
+msgid "Footer 1"
+msgstr "ফুটার ১"
+
+#: functions.php:269
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "চালু"
+
+#: functions.php:63 functions.php:183
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "টপ মেন্যু"
+
+#: comments.php:60
+msgid "Reply"
+msgstr "রিপ্লাই"
+
+#: template-parts/post/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "মনে হচ্ছে আপনি যেটি খুঁজছেন সেটি আমরা খুঁজে পাইনি। সম্ভবত অনুসন্ধানে পাওয়া যাবে।"
+
+#: search.php:50
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "দুঃখিত, কোনকিছু আপনার অনুসন্ধানকৃত বিষয়ের সাথে মিলেনি। অনুগ্রহ করে কিছু ভিন্ন কীওয়ার্ড দ্বারা আবার চেষ্টা করুন।"
+
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "আপনার প্রথম পোস্ট প্রকাশ করার জন্য প্রস্তুত? <a href=\"%1$s\">এখান থেকে শুরু করুন</a>।"
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "কিছুই পাওয়া যায়নি"
+
+#: single.php:31
+msgid "Previous Post"
+msgstr "পূর্ববর্তী পোস্ট"
+
+#: comments.php:66 single.php:31
+msgid "Previous"
+msgstr "পূর্ববর্তী"
+
+#: comments.php:67 single.php:32
+msgid "Next"
+msgstr "পরবর্তী"
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr "খুঁজুন "
+
+#: searchform.php:18
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "অনুসন্ধান করুন &hellip;"
+
+#: searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "খোঁজ করুন:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "অনুসন্ধানের ফলাফলঃ %s"
+
+#. translators: %s: Name of current post
+#: functions.php:362 template-parts/page/content-front-page-panels.php:43
+#: template-parts/page/content-front-page.php:44
+#: template-parts/post/content-audio.php:80
+#: template-parts/post/content-gallery.php:66
+#: template-parts/post/content-image.php:56
+#: template-parts/post/content-video.php:78 template-parts/post/content.php:54
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "পড়তে থাকুন<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr "কাল"
+
+#: inc/back-compat.php:39 inc/back-compat.php:51 inc/back-compat.php:66
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:117
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "এডিট<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/page/content-page.php:25
+#: template-parts/post/content-audio.php:85
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:83 template-parts/post/content.php:59
+msgid "Pages:"
+msgstr "পাতাসমূহ:"
+
+#: template-parts/navigation/navigation-top.php:13
+msgid "Menu"
+msgstr "মেন্যু"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "এড়িয়ে লেখায় যান"
+
+#: functions.php:445
+msgid "Collapse child menu"
+msgstr "চাইল্ড মেনু লুকান"
+
+#: functions.php:444
+msgid "Expand child menu"
+msgstr "চাইল্ড মেনু দেখান"
+
+#: functions.php:317
+msgid "Add widgets here to appear in your sidebar."
+msgstr "আপনার সাইডবারে প্রদর্শনের জন্য এখানে উইজেটসমূহ যুক্ত করুন।"
+
+#: functions.php:315
+msgid "Sidebar"
+msgstr "সাইডবার"
+
+#: functions.php:64 functions.php:194
+msgid "Social Links Menu"
+msgstr "সোশ্যাল লিঙ্কের মেনু"
+
+#: template-parts/footer/site-info.php:13
+msgid "Proudly powered by %s"
+msgstr "%s এর দ্বারা সদম্ভে চালিত"
+
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/ "
+
+#: footer.php:25
+msgid "Footer Social Links Menu"
+msgstr "ফুটারের সোশাল লিঙ্কের মেনু"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "মন্তব্য প্রদান বন্ধ আছে।"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s উত্তর দিন &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s উত্তর দিয়েছেন &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "একটি উত্তর &ldquo;%s&rdquo;"
+
+#: archive.php:47 index.php:52 search.php:45
+msgid "Page"
+msgstr "পাতা"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "উফ! ঐ পাতাটি পাওয়া যায়নি।"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "দেখে মনে হচ্ছে এই জায়গায় কিছুই পাওয়া যায় নি। হয়তো সার্চ করে দেখতে পারেন?"
+
+#: archive.php:45 index.php:50 search.php:43
+msgid "Previous page"
+msgstr "পূর্ববর্তী পাতা"
+
+#: archive.php:46 index.php:51 search.php:44
+msgid "Next page"
+msgstr "পরবর্তী পাতা"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "ওয়ার্ডপ্রেস টিম"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentyseventeen/"

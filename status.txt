@@ -1,0 +1,36 @@
+
+# 15 May 2017
+
+- arq
+- bcc
+- ckb
+- art-xemoji
+- ko
+
+----------------------------
+
+# 14 May 2017
+
+- pt-br
+- br
+- hi
+- bn
+- dzo
+- az-tr
+- bel
+- cy
+
+# Unknown languages
+- ba *
+- bal *
+- fuc *
+- fur *
+- hat *
+- ido *
+- kin *
+- lin *
+- nl-be *
+- ory *
+- roh *
+- tah *
+- twd *

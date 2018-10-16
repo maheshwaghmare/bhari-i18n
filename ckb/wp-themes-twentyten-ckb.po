@@ -1,0 +1,383 @@
+# Translation of Themes - Twenty Ten in Kurdish (Sorani)
+# This file is distributed under the same license as the Themes - Twenty Ten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-05 11:37:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ku_IQ\n"
+"Project-Id-Version: Themes - Twenty Ten\n"
+
+#. Description of the plugin/theme
+msgid "The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Asides\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+msgstr "ڕووكاری 2010 بۆ WordPress شێوازێكی نوێیه‌، ئاره‌زوومه‌ندانه‌، ساده‌، خوێندراوه‌ -- خۆت بکه‌ به‌خاوه‌نی له‌گه‌ڵ لیستێكی ڕاسپێراو، وێنه‌ی ده‌ستپێك ،وه‌ پاشبنه‌ما. بیست و یه‌ك پاڵپشتی شه‌ش مه‌ودای ویدجیتکراون (دوو له‌ لاشریت ،چوار له‌ پێپه‌ڕه‌) وه‌ وێنه‌ تایبه‌ته‌کان (وێنه‌ بچووككراوه‌كان بۆ بابه‌ته‌کانی گه‌له‌ری و وێنه‌کانی ده‌ستپێك بۆ بابه‌ته‌کان و په‌ڕه‌كان). له‌خۆی ده‌گرێت په‌ڕگه‌شێواز بۆ چاپكردن وه‌ به‌ڕێوه‌به‌رایه‌تی دیده‌یی. شێوازه‌ تایبه‌ته‌کان بۆ بابه‌ته‌کان له‌ \"بۆچوونه‌ له‌لاوه‌کان\" و به‌شه‌كانی \"گه‌له‌ری\" ،وه‌ په‌ڕه‌ی داڕێژه‌ی یه‌ك-ستونی ئاره‌زوومه‌ندانه‌ی هه‌یه‌ که‌ لاشریت لاده‌بات."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Ten"
+msgstr "Twenty Ten"
+
+#. Template Name of the plugin/theme
+msgid "One column, no sidebar"
+msgstr "یەک ستوون، هیچ لاتەنیشتێک"
+
+#: tag.php:16
+msgid "Tag Archives: %s"
+msgstr "ئەرشیفەکانى تاگ: %s"
+
+#: sidebar.php:35
+msgid "Meta"
+msgstr "په‌یوه‌ندی دار:"
+
+#: sidebar.php:28
+msgid "Archives"
+msgstr "ئەرشیڤەکان"
+
+#: search.php:29
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "ببوورە،هیچ وشەێک نەبوو لەو شێوەیە.تکایە جارێکى تر هەوڵبدەرەوە بە وشەێکى جیاواز تر."
+
+#: search.php:27
+msgid "Nothing Found"
+msgstr "هیچ نەدۆزرایەوە"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "ئەنجامەکانی گەڕان بۆ: %s"
+
+#: loop.php:161
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">پێوه‌دراوه‌</span> %2$s"
+
+#: loop.php:152
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">نێردراوە لە</span> %2$s"
+
+#: loop.php:107
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "بۆچوونه‌ له‌لاوه‌كان"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "% Comments"
+msgstr "%s لێدوان"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "1 Comment"
+msgstr "1 لێدوان"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "Leave a comment"
+msgstr "لێدوانێک بنووسە"
+
+#: loop.php:97
+msgid "View posts in the Gallery category"
+msgstr "بینیینى بابەتەکانى هاوپۆلى گەلەرى"
+
+#: loop.php:94 loop.php:97
+msgid "More Galleries"
+msgstr "گەلەرى زۆرتر"
+
+#: loop.php:94
+msgid "View Galleries"
+msgstr "پیشاندانی گەلەرییەکان"
+
+#: loop.php:84
+msgid "Permalink to %s"
+msgstr "بەستەری جێگیر بۆ %s"
+
+#: loop.php:83
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "ئەم گەلەرییە <a %1$s>%2$s وێنە</a> لەخۆ دەگرێت."
+msgstr[1] "ئەم گەلەرییە <a %1$s>%2$s وێنە</a> لەخۆ دەگرێت."
+
+#: loop.php:62 loop.php:96
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "گەلەرى"
+
+#: loop.php:35
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "ببوره‌ ،به‌ڵام هیچ ئه‌نجامێك نه‌دۆزرایه‌وه‌ بۆ ئه‌رشیفی داواكراو. له‌وانه‌یه‌ گه‌ڕان یارمه‌تیت بدا بۆ دۆزینه‌وه‌ی بابه‌تی هاوشێوه‌."
+
+#: loop.php:26 loop.php:180
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "بڵاوکراوەکانی نوێتر <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop.php:25 loop.php:179
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> بڵاوکراوەکانی کۆنتر"
+
+#: loop-single.php:50
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "بینیینى هەموو بابەتەکان لەلاینy %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop-single.php:22 loop-single.php:65
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: loop-single.php:21 loop-single.php:64
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: loop-attachment.php:120 loop-page.php:29 loop-single.php:34 loop.php:145
+msgid "Pages:"
+msgstr "په‌ڕه‌كان:"
+
+#: loop-attachment.php:63 loop-attachment.php:126 loop-page.php:30
+#: loop-single.php:59 loop.php:101 loop.php:124 loop.php:166
+msgid "Edit"
+msgstr "ده‌ستكاری"
+
+#: loop-attachment.php:56
+msgid "Link to full-size image"
+msgstr "به‌سته‌ر بۆ وێنه‌ی قه‌باره‌-پڕ"
+
+#: loop-attachment.php:53
+msgid "Full size is %s pixels"
+msgstr "پێكسله‌ %s قه‌باره‌ی پڕ"
+
+#: loop-attachment.php:43
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">بڵاوکرایەوە</span> %2$s"
+
+#: loop-attachment.php:32
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">لەلاین</span> %2$s"
+
+#. translators: %s - title of parent post
+#: loop-attachment.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: loop-attachment.php:21
+msgid "Return to %s"
+msgstr "بگەڕێوە بۆ %s"
+
+#: header.php:105
+msgid "Skip to content"
+msgstr "بازدان بۆ ناوه‌ڕۆك"
+
+#: header.php:33
+msgid "Page %s"
+msgstr "پەڕە %s"
+
+#: functions.php:544
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "پەڕتووکنیشانەکەر <a href=\"%3$s\" title=\"بەستەرى سەرەکى بۆ %4$s\" rel=\"bookmark\">بەستەرى سەرەکى</a>."
+
+#: functions.php:542
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "ئه‌م به‌نده‌ تۆمارکرا له %1$s. جێدۆزی <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a> بكه‌."
+
+#: functions.php:540
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "ئه‌م به‌نده‌ تۆماركرا له‌ %1$s پێوه‌درا %2$s. جێدۆزی Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a> بكه‌."
+
+#: functions.php:523 loop-attachment.php:36
+msgid "View all posts by %s"
+msgstr "بینینی هەمووی پەیامەکان لە لایەن %s"
+
+#: functions.php:514
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">نوسراوە لە</span> %2$s <span class=\"meta-sep\">لەلاین</span> %3$s"
+
+#: functions.php:478
+msgid "Fourth Footer Widget Area"
+msgstr "ناوچەی پێپەڕە چوارەمی ویجیت "
+
+#: functions.php:467
+msgid "Third Footer Widget Area"
+msgstr "ناوچەی پێپەڕە سێەمی ویجیت "
+
+#: functions.php:456
+msgid "Second Footer Widget Area"
+msgstr "ناوچەی پێپەڕە دووەمی ویجیت "
+
+#: functions.php:447 functions.php:458 functions.php:469 functions.php:480
+msgid "An optional widget area for your site footer."
+msgstr ""
+
+#: functions.php:445
+msgid "First Footer Widget Area"
+msgstr "ناوچەی پێپەڕە یەکەمی ویجیت "
+
+#: functions.php:436
+msgid "An optional secondary widget area, displays below the primary widget area in your sidebar."
+msgstr ""
+
+#: functions.php:434
+msgid "Secondary Widget Area"
+msgstr "ناوچەی دووەمى ویجیت"
+
+#: functions.php:425
+msgid "Add widgets here to appear in your sidebar."
+msgstr "ویجیتەکانت لێرە زیاد بکە تا لە لاتەنیشت دەربکەوێت."
+
+#: functions.php:423
+msgid "Primary Widget Area"
+msgstr "ناوچەی سەرەتایی ویجیت"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "پینگباک:"
+
+#: functions.php:386 functions.php:403
+msgid "(Edit)"
+msgstr "(ده‌ستكاری)"
+
+#. translators: 1: date, 2: time
+#: functions.php:386
+msgid "%1$s at %2$s"
+msgstr "%1$s له‌ %2$s"
+
+#: functions.php:379
+msgid "Your comment is awaiting moderation."
+msgstr "لێدوانەکەت چاوەڕێی پەسەندبوونە."
+
+#: functions.php:376
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">فەرمووى:</span>"
+
+#: functions.php:280 loop-attachment.php:119 loop.php:116 loop.php:144
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "درێژە بخوێنەوە <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: header image description
+#: functions.php:207
+msgid "Sunset"
+msgstr "خۆرئاوابوون"
+
+#. translators: header image description
+#: functions.php:201
+msgid "Path"
+msgstr "ڕێڕه‌و"
+
+#. translators: header image description
+#: functions.php:195
+msgid "Inkwell"
+msgstr "مه‌ره‌كه‌بخانه‌"
+
+#. translators: header image description
+#: functions.php:189
+msgid "Forest Floor"
+msgstr "نهۆمی دارستان "
+
+#. translators: header image description
+#: functions.php:183
+msgid "Fern"
+msgstr "لکاوبه‌ند"
+
+#. translators: header image description
+#: functions.php:177
+msgid "Concave"
+msgstr "قوپاو"
+
+#. translators: header image description
+#: functions.php:171
+msgid "Cherry Blossoms"
+msgstr "گوڵی گێلاس"
+
+#. translators: header image description
+#: functions.php:165
+msgid "Berries"
+msgstr "توت"
+
+#: functions.php:95
+msgid "Primary Navigation"
+msgstr "ڕێنیشاندەری سەرەتایی"
+
+#: footer.php:40
+msgid "Proudly powered by %s."
+msgstr "بەهێزە بە  %s."
+
+#: footer.php:40
+msgid "Semantic Personal Publishing Platform"
+msgstr "شۆسته‌ی گوزارشتی تاکه‌که‌سی بڵاوكراو"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "لێدووان داخراوە ."
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "لێدوانى نوێ <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:42 comments.php:62
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> لێدوانى کۆن"
+
+#: comments.php:36
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "یەک وەڵام بۆ %2$s"
+msgstr[1] "%1$s وەڵام بۆ %2$s"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "ئه‌م بابه‌ته‌ پێویست به‌ ووشه‌ی تێپه‌ڕبوون ده‌کات. ووشه‌ی تێپه‌ڕبوون لێبده‌ بۆ نیشاندانی هه‌ر بۆچوونێك."
+
+#: category.php:16
+msgid "Category Archives: %s"
+msgstr "ئەرشیفەکانى هاوپۆل: %s"
+
+#: author.php:47 loop-single.php:46
+msgid "About %s"
+msgstr "دەربارەی %s"
+
+#: author.php:28
+msgid "Author Archives: %s"
+msgstr "ئەرشیفەکانى نوسەر: %s"
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr "ئەرشیفەکانى بلاگ"
+
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:38
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "ئەرشیفی ساڵانە: <span>%s</span>"
+
+#: archive.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:36
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "ئەرشیفەکانى مانگ: <span>%s</span>"
+
+#: archive.php:34
+msgid "Daily Archives: <span>%s</span>"
+msgstr "ئەرشیفەکانى ڕۆژ: <span>%s</span>"
+
+#: 404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "ببوره‌، به‌ڵام ئه‌و په‌ڕه‌ی داواکراوه‌ نه‌توانرا  بدۆزرێته‌وه‌. له‌وانه‌یه‌ گه‌ڕان یارمه‌تیت بدا."
+
+#: 404.php:16 loop.php:33
+msgid "Not Found"
+msgstr "هیچ نەدۆزرایەوە"
+
+#. #-#-#-#-#  twentyten.pot (Twenty Ten 2.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:40
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "تیمی وۆردپێس"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyten/"
+msgstr ""

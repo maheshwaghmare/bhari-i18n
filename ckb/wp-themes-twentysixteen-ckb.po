@@ -1,0 +1,330 @@
+# Translation of Themes - Twenty Sixteen in Kurdish (Sorani)
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 00:58:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ku_IQ\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:184 template-parts/content.php:28
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: image.php:84 template-parts/content-page.php:37
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:45 template-parts/content.php:49
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Red"
+msgstr "سوور"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "گەڕان"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "گەڕان &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "گەڕان بۆ:"
+
+#: footer.php:28
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr ""
+
+#: functions.php:158
+msgid "Add widgets here to appear in your sidebar."
+msgstr "ویجیتەکانت لێرە زیاد بکە تا لە لاتەنیشت دەربکەوێت."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "تایبەتکرا"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ئەمە لەوە دەچیت کە تۆ بەدوای دەگەڕێی. لەوانەیە گەڕان یارمەتیت بدات"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ببورە، بەڵام هیچ شتێک وەک ئەوەی بۆی دەگەڕیی نەدۆزرایەوە، تکایە دووبارە هەوڵبدە بە وشەکلیلی جیاواز."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "ئامادەی بۆ بلاوکردنەوەی یەکەمین بابەتت؟  <a href=\"%1$s\">لیرە دەست پێبکە</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "هیچ شتێک نەخوێندرایەوە"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "بینینی هەمووی پەیامەکان لە لایەن %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "نووسەر:"
+
+#: single.php:38
+msgid "Previous post:"
+msgstr "بابەتی پێشوو:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "پێشوو"
+
+#: single.php:35
+msgid "Next post:"
+msgstr "بابەتی داهاتوو:"
+
+#: single.php:34
+msgid "Next"
+msgstr "دواتر"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "ئەنجامەکانی گەڕان بۆ: %s"
+
+#: inc/template-tags.php:106
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "تاگ"
+
+#: inc/template-tags.php:98
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "هاوپۆلەکان"
+
+#: inc/template-tags.php:95 inc/template-tags.php:103
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "مێتا"
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "پۆستکراوە لە"
+
+#: inc/template-tags.php:38
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "شێوە"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "لێدوانیک بەجێ بهێلە<span class=\"screen-reader-text\"> لەسەر %s</span>"
+
+#: inc/template-tags.php:25
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "نووسەر"
+
+#: inc/customizer.php:293
+msgid "Yellow"
+msgstr "زەرد"
+
+#: inc/customizer.php:273
+msgid "Gray"
+msgstr "ڕەساسی"
+
+#: inc/customizer.php:263
+msgid "Dark"
+msgstr "تاریک"
+
+#: inc/customizer.php:172
+msgid "Main Text Color"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Default"
+msgstr "بنه‌ڕه‌ت"
+
+#: inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Link Color"
+msgstr "ڕەنگی بەستەر"
+
+#: inc/customizer.php:145
+msgid "Page Background Color"
+msgstr ""
+
+#: image.php:102 single.php:29
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">بڵاوکراوەتەوە لە</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr "خشتەی ڕەنگی بنەما"
+
+#: image.php:73
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "قەبارەی تەواو"
+
+#: image.php:56 template-parts/content-page.php:23
+#: template-parts/content-single.php:25 template-parts/content.php:33
+msgid "Pages:"
+msgstr "پەڕەکان:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "وێنەی داهاتوو"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "وینەی پێشوو"
+
+#: header.php:47
+msgid "Menu"
+msgstr "مێنیو"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "وازیلێبێنە بۆ بەردەوامبوون"
+
+#: functions.php:284
+msgid "expand child menu"
+msgstr "لیستەی منداڵ فراوان بکە"
+
+#: functions.php:285
+msgid "collapse child menu"
+msgstr "لیستەی منداڵ کۆ بکەوە"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:213
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "لە"
+
+#: functions.php:166
+msgid "Content Bottom 1"
+msgstr ""
+
+#: functions.php:168 functions.php:178
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr ""
+
+#: functions.php:176
+msgid "Content Bottom 2"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:203
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:208
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:156
+msgid "Sidebar"
+msgstr "لاتەنیشت (Sidebar)"
+
+#: functions.php:89 header.php:62
+msgid "Social Links Menu"
+msgstr "لیستەی بەستەری یۆڕە کۆمەڵایەتییەکان"
+
+#: functions.php:88 header.php:51
+msgid "Primary Menu"
+msgstr "مێنیوی سەرەکی"
+
+#: footer.php:51
+msgid "Proudly powered by %s"
+msgstr "بە شانازییەوە بەهێزکراوە لەلایەن %s"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "لێدوان نووسین داخراوە."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: archive.php:51 image.php:60 index.php:48 search.php:39
+#: template-parts/content-page.php:27 template-parts/content-single.php:29
+#: template-parts/content.php:37
+msgid "Page"
+msgstr "لاپەڕە"
+
+#: archive.php:50 index.php:47 search.php:38
+msgid "Next page"
+msgstr "په‌ڕه‌ی داهاتوو"
+
+#: archive.php:49 index.php:46 search.php:37
+msgid "Previous page"
+msgstr "په‌ڕه‌ی پێشوو"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ئەمە وەک ئەوەی لەم شوێنە هیچ شتێک نەدۆزراوەتەوە. دەشێ دووبارە بگەڕێی؟"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ئۆه! ئەم لاپەڕەیە نەدۆزرایەوە."
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "دەستەی وۆردپرێس"
+
+#. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:51
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

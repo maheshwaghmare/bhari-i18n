@@ -1,0 +1,27 @@
+
+af
+ast
+bg
+ca
+cs
+cy
+de
+de-ch
+de-ch
+de
+
+# BHARI - PO / MO file format
+https://translate.wordpress.org/projects/wp-themes/bhari/ast/default/export-translations?format=po
+
+# THEMES Reference files:
+https://translate.wordpress.org/projects/wp-themes/twentyseventeen/ast/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentysixteen/ast/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyfifteen/ast/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyfourteen/ast/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentythirteen/ast/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentytwelve/ast/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyeleven/ast/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyten/ast/default/export-translations?format=po
+
+# WordPress 4.1.x:
+https://translate.wordpress.org/projects/wp/4.1.x/admin/ast/default/export-translations?format=po

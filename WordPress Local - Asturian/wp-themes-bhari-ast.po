@@ -1,0 +1,315 @@
+# Translation of Themes - Bhari in Asturian
+# This file is distributed under the same license as the Themes - Bhari package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ast_ES\n"
+"Project-Id-Version: Themes - Bhari\n"
+
+#. Description of the plugin/theme
+msgid "Bhari is lightweight, responsive theme for bloggers who love to write articles, share awesome stuff etc."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bhari"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:95
+msgctxt "Reset the slider customizer control value."
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/customizer.php:88
+msgctxt "Website Layout"
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:97
+msgctxt "Website Container"
+msgid "Container"
+msgstr ""
+
+#: inc/template-tags.php:114
+msgctxt "Article written by"
+msgid "By "
+msgstr ""
+
+#: inc/template-tags.php:118
+msgctxt "Article written on"
+msgid "On "
+msgstr ""
+
+#: inc/template-tags.php:214
+msgctxt "Comma separator for tags."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:218
+msgctxt "Tag title."
+msgid "%1$s "
+msgstr "%1$s "
+
+#: template-parts/content-page.php:45 template-parts/content.php:74
+msgid "Pages:"
+msgstr "Páxines:"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:38 template-parts/content.php:67
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Siguir lleendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Paz que nun somos a dar con lo que quies. Quiciabes una gueta puede ayudar."
+
+#: template-parts/content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Llamentámoslo, pero nun damos con nada que concase con la gueta que ficisti. Por favor prueba otra vuelta con otres pallabres."
+
+#: template-parts/content-none.php:29
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparáu pa espublizar el primer artículu? <a href=\"%1$s\">Entama equí</a>."
+
+#: template-parts/content-none.php:20
+msgid "Nothing Found"
+msgstr "Nun damos con nada"
+
+#: single.php:31
+msgid "<span class=\"link-wrap\"><span class=\"link-caption\">Next Article</span><span class=\"link-title\">%title</span></span>"
+msgstr ""
+
+#: single.php:30
+msgid "<span class=\"link-wrap\"><span class=\"link-caption\">Previous Article</span><span class=\"link-title\">%title</span></span>"
+msgstr ""
+
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Resultaos de gueta pa: %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:284
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Dexar un comentariu<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:237
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:198
+msgid "%1$s "
+msgstr "%1$s "
+
+#: inc/template-tags.php:193
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:174
+msgctxt "post date"
+msgid "%s "
+msgstr "%s "
+
+#: inc/template-tags.php:146
+msgctxt "post author"
+msgid "%s "
+msgstr "%s "
+
+#: inc/template-tags.php:126
+msgid "Tags "
+msgstr "Etiquetes "
+
+#: inc/template-tags.php:122
+msgid "Categories "
+msgstr "Categoríes "
+
+#: inc/customizer/customizer.php:278
+msgid "Add sidebar layout for pages only."
+msgstr ""
+
+#: inc/customizer/customizer.php:250
+msgid "Add sidebar layout for single post only."
+msgstr ""
+
+#: inc/customizer/customizer.php:231 inc/customizer/customizer.php:259
+#: inc/customizer/customizer.php:287
+msgid "Left Sidebar / Right Sidebar / Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:230 inc/customizer/customizer.php:258
+#: inc/customizer/customizer.php:286
+msgid "Left Sidebar / Content / Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:229 inc/customizer/customizer.php:257
+#: inc/customizer/customizer.php:285
+msgid "Content / Left Sidebar / Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:228 inc/customizer/customizer.php:256
+#: inc/customizer/customizer.php:284
+msgid "Content / Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:227 inc/customizer/customizer.php:255
+#: inc/customizer/customizer.php:283
+msgid "Left Sidebar / Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:226 inc/customizer/customizer.php:254
+#: inc/customizer/customizer.php:282
+msgid "Full Width ( No Sidebar )"
+msgstr ""
+
+#: inc/customizer/customizer.php:222
+msgid "Add sidebar layout for blog, archive, category tag pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:193
+msgid "Container width is applied for the pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:192
+msgid "Container width for the page."
+msgstr ""
+
+#: inc/customizer/customizer.php:191 inc/customizer/customizer.php:277
+msgid "Page"
+msgstr "Páxina"
+
+#: inc/customizer/customizer.php:162
+msgid "Container width is applied for the single post."
+msgstr ""
+
+#: inc/customizer/customizer.php:161
+msgid "Container width for the single post."
+msgstr ""
+
+#: inc/customizer/customizer.php:160 inc/customizer/customizer.php:249
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Container width is applied for the blog, category, tag and custom post type archive pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:130
+msgid "Container width for archive pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:129 inc/customizer/customizer.php:221
+msgid "Archive"
+msgstr ""
+
+#: inc/customizer/customizer.php:105
+msgid "Sidebars"
+msgstr ""
+
+#: inc/customizer/customizer.php:59
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+msgid "Site Title & Tagline Color"
+msgstr ""
+
+#: header.php:53
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Dir al conteníu"
+
+#: functions.php:162
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:153 functions.php:164
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:151
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:68
+msgid "Primary"
+msgstr ""
+
+#: footer.php:24
+msgid "Theme: %1$s"
+msgstr ""
+
+#: footer.php:23
+msgid "|"
+msgstr ""
+
+#: footer.php:22
+msgid "Proudly powered by %s"
+msgstr "Arguyosamente fechu con %s"
+
+#: footer.php:22
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:107
+msgid "Comments are closed."
+msgstr "Zarráronse los comentarios."
+
+#: comments.php:62 comments.php:93
+msgid "Newer Comments"
+msgstr "Comentarios más nuevos"
+
+#: comments.php:59 comments.php:90
+msgid "Older Comments"
+msgstr "Comentarios más vieyos"
+
+#: comments.php:53 comments.php:84
+msgid "Comment navigation"
+msgstr "Restolando pelos comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentariu en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Un comentariu en &ldquo;%s&rdquo;"
+
+#: archive.php:52 index.php:55 search.php:57
+msgid "Next"
+msgstr "Siguiente"
+
+#: archive.php:51 index.php:54 search.php:56
+msgid " Previous"
+msgstr " Anterior"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Paez que nun hai nada n'esti sitiu. Quiciabes faciendo una gueta..."
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Mecá! Nun damos con esa páxina."
+
+#. Author URI of the plugin/theme
+msgid "https://maheshwaghmare.wordpress.com/"
+msgstr "https://maheshwaghmare.wordpress.com/"
+
+#. Author of the plugin/theme
+msgid "Mahesh M. Waghmare"
+msgstr "Mahesh M. Waghmare"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/maheshwaghmare/bhari"
+msgstr "https://github.com/maheshwaghmare/bhari"

@@ -1,0 +1,14 @@
+
+# PO / MO file format
+https://translate.wordpress.org/projects/wp-themes/bhari/fr-ca/default/export-translations?format=po
+
+# THEMES Reference files:
+https://translate.wordpress.org/projects/wp-themes/twentyseventeen/fr-ca/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentysixteen/fr-ca/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyfifteen/fr-ca/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyfourteen/fr-ca/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentythirteen/fr-ca/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentytwenty/fr-ca/default/export-translations?format=po
+
+# WordPress 4.1.x:
+https://translate.wordpress.org/projects/wp/4.1.x/admin/fr-ca/default/export-translations?format=po

@@ -1,0 +1,301 @@
+# Translation of Themes - Bhari in Russian
+# This file is distributed under the same license as the Themes - Bhari package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Bhari\n"
+
+#. Description of the plugin/theme
+msgid "Bhari is lightweight, responsive theme for bloggers who love to write articles, share awesome stuff etc."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bhari"
+msgstr ""
+
+#: template-parts/content-page.php:42 template-parts/content.php:71
+msgid "Pages:"
+msgstr "Страниц:"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:37 template-parts/content.php:66
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:29
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:20
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: single.php:30
+msgid "<span class=\"link-wrap\"><span class=\"link-caption\">Next Article</span><span class=\"link-title\">%title</span></span>"
+msgstr ""
+
+#: single.php:29
+msgid "<span class=\"link-wrap\"><span class=\"link-caption\">Previous Article</span><span class=\"link-title\">%title</span></span>"
+msgstr ""
+
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:282
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к записи %s</span>"
+
+#: inc/template-tags.php:236
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/template-tags.php:198 inc/template-tags.php:218
+msgid "%1$s "
+msgstr ""
+
+#: inc/template-tags.php:193 inc/template-tags.php:214
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:174
+msgctxt "post date"
+msgid "%s "
+msgstr ""
+
+#: inc/template-tags.php:146
+msgctxt "post author"
+msgid "%s "
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "Tags "
+msgstr "Метки:"
+
+#: inc/template-tags.php:122
+msgid "Categories "
+msgstr "Рубрики"
+
+#: inc/template-tags.php:118
+msgid "On "
+msgstr ""
+
+#: inc/template-tags.php:114
+msgid "By "
+msgstr "автора"
+
+#: inc/customizer/customizer.php:243
+msgid "Add sidebar layout for pages only."
+msgstr ""
+
+#: inc/customizer/customizer.php:219
+msgid "Add sidebar layout for single post only."
+msgstr ""
+
+#: inc/customizer/customizer.php:204 inc/customizer/customizer.php:228
+#: inc/customizer/customizer.php:252
+msgid "Left Sidebar / Right Sidebar / Content"
+msgstr "Меню слева / Меню справа / Содержание"
+
+#: inc/customizer/customizer.php:203 inc/customizer/customizer.php:227
+#: inc/customizer/customizer.php:251
+msgid "Left Sidebar / Content / Right Sidebar"
+msgstr "Меню слева / Содержание / Меню справа"
+
+#: inc/customizer/customizer.php:202 inc/customizer/customizer.php:226
+#: inc/customizer/customizer.php:250
+msgid "Content / Left Sidebar / Right Sidebar"
+msgstr "Содержание / Меню слева / Меню справа"
+
+#: inc/customizer/customizer.php:201 inc/customizer/customizer.php:225
+#: inc/customizer/customizer.php:249
+msgid "Content / Right Sidebar"
+msgstr "Содержание / Меню справа"
+
+#: inc/customizer/customizer.php:200 inc/customizer/customizer.php:224
+#: inc/customizer/customizer.php:248
+msgid "Left Sidebar / Content"
+msgstr "Меню слева / Содержание"
+
+#: inc/customizer/customizer.php:199 inc/customizer/customizer.php:223
+#: inc/customizer/customizer.php:247
+msgid "Full Width ( No Sidebar )"
+msgstr ""
+
+#: inc/customizer/customizer.php:195
+msgid "Add sidebar layout for blog, archive, category tag pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:171
+msgid "Container width is applied for the pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:170
+msgid "Container width for the page."
+msgstr ""
+
+#: inc/customizer/customizer.php:169 inc/customizer/customizer.php:242
+msgid "Page"
+msgstr "Страница"
+
+#: inc/customizer/customizer.php:146
+msgid "Container width is applied for the single post."
+msgstr ""
+
+#: inc/customizer/customizer.php:145
+msgid "Container width for the single post."
+msgstr ""
+
+#: inc/customizer/customizer.php:144 inc/customizer/customizer.php:218
+msgid "Single Post"
+msgstr "Одна запись"
+
+#: inc/customizer/customizer.php:121
+msgid "Container width is applied for the blog, category, tag and custom post type archive pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:120
+msgid "Container width for archive pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:119 inc/customizer/customizer.php:194
+msgid "Archive"
+msgstr "Архивы"
+
+#: inc/customizer/customizer.php:100
+msgid "Sidebars"
+msgstr ""
+
+#: inc/customizer/customizer.php:94
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/customizer.php:87
+msgid "Layout"
+msgstr "Разметка"
+
+#: inc/customizer/customizer.php:59
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+msgid "Site Title & Tagline Color"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:94
+msgid "Reset"
+msgstr "Сбросить"
+
+#: header.php:53
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:145
+msgid "Left Sidebar"
+msgstr "Меню слева"
+
+#: functions.php:138 functions.php:147
+msgid "Add widgets here."
+msgstr "Добавьте сюда виджеты."
+
+#: functions.php:136
+msgid "Right Sidebar"
+msgstr "Меню справа"
+
+#: functions.php:63
+msgid "Primary"
+msgstr "Основное"
+
+#: footer.php:24
+msgid "Theme: %1$s"
+msgstr ""
+
+#: footer.php:23
+msgid "|"
+msgstr "|"
+
+#: footer.php:22
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: footer.php:22
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:105
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:62 comments.php:91
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:59 comments.php:88
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:53 comments.php:82
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "%s: 1 комментарий"
+
+#: archive.php:51 index.php:54 search.php:56
+msgid "Next"
+msgstr "Следующая"
+
+#: archive.php:50 index.php:53 search.php:55
+msgid " Previous"
+msgstr " Предыдущая"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Author URI of the plugin/theme
+msgid "https://maheshwaghmare.wordpress.com/"
+msgstr "https://maheshwaghmare.wordpress.com/"
+
+#. Author of the plugin/theme
+msgid "Mahesh M. Waghmare"
+msgstr "Mahesh M. Waghmare"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/maheshwaghmare/bhari"
+msgstr "https://github.com/maheshwaghmare/bhari"

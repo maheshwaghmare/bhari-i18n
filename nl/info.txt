@@ -1,0 +1,17 @@
+
+# Team Page
+https://make.wordpress.org/polyglots/teams/?locale=nl_NL
+
+# BHARI - PO / MO file format
+https://translate.wordpress.org/projects/wp-themes/bhari/nl/default/export-translations?format=po
+
+# THEMES Reference files:
+https://translate.wordpress.org/projects/wp-themes/twentyseventeen/nl/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentysixteen/nl/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyfifteen/nl/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentyfourteen/nl/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentythirteen/nl/default/export-translations?format=po
+https://translate.wordpress.org/projects/wp-themes/twentytwelve/nl/default/export-translations?format=po
+
+# WordPress 4.1.x:
+https://translate.wordpress.org/projects/wp/4.1.x/admin/nl/default/export-translations?format=po
